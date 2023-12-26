@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Project Portal for Credema**
 
-- 🌱 I’m currently learning **Java and Data Structures and Algo**
+- 🌱 I’m currently learning **Java and Data Structures and Algorithms**
 
 - 💬 Ask me about **Web development, Python, Machine Learning, Django & Django REST Framework, JWT**
 
