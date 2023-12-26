@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anurag Sharda</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+- 🔭 I’m currently working on **Credeman Projects**
+
 - 🌱 I’m currently learning **Java and Data Structures and Algo**
 
 - 💬 Ask me about **Web development, Python, Machine, Django, JWT**
