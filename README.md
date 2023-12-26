@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and Data Structures and Algo**
 
-- 💬 Ask me about **Web development, Python, Machine, Django, JWT**
+- 💬 Ask me about **Web development, Python, Machine Learning, Django & Django REST Framework, JWT**
 
 - 📫 How to reach me **anuragsharda131@gmail.com**
 
