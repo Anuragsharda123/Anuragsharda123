@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Sharda</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I've completed a project for [CredemaAG](http://credema.apjimtc.org/)
+- 🔭 I've recently completed a project for [CredemaAG](http://credema.apjimtc.org/)
 
 - 🌱 I’m currently learning **Java and Data Structures and Algo**
 
