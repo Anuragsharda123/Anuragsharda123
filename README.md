@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Sharda</h1>
 <h3 align="center">A passionate Full Stack developer and Machine Learning enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Project Portal for Credema**
-
 - 🌱 I’m currently learning **Java and Data Structures and Algorithms**
 
 - 💬 Ask me about **Web development, Python, Machine Learning, Django & Django REST Framework, JWT**
