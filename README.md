@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Sharda</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 💬 Ask me about **Web development, Python, Machine, Django, JAVA**
+- 💬 Ask me about **Web development, Python, Machine, Django, JAVA, Nodejs**
 
 - 📫 How to reach me **anuragsharda131@gmail.com**
 
