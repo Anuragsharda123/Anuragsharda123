@@ -89,7 +89,7 @@
             alt="pandas" width="40" height="40" />
     </a> -->
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40"
+        <img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg"  alt="nextjs" width="40"
             height="40" />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
